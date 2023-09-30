@@ -1,3 +1,8 @@
+#### Name: Jay
+-Place:India
+-Bio:Tech enthusiast crafting code and building bridges between humans and machines.
+-Github:[Jayshaha1009](https://github.com/Jayshaha1009)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
